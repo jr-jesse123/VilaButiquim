@@ -10,3 +10,7 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
+.ionide/symbolCache.db
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/Vila Botequim/v17/.suo
